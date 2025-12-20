@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/khanovi57)
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m currently learning **PHP, MySQL, Laravel**
 
 - 👯 I’m looking to collaborate on [Freedom IT Institution](https://freedomitinstitutions.com/)
 
